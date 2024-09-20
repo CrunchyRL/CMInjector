@@ -26,7 +26,7 @@ A simple C++ command-line application that injects a DLL into the highest priori
 3. Run the executable with the following command:
 
    ```
-   dll-injector <Process Name> <DLL Filename>
+   CMInjector <Process Filename> <DLL Filename>
    ```
 
    - `<Process Name>`: The name of the target process (e.g., `RocketLeague.exe`).
