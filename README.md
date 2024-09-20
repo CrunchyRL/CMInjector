@@ -20,7 +20,7 @@ A simple C++ command-line application that injects a DLL into the highest priori
 1. Clone the repository:
 ```
    git clone https://github.com/CrunchyRL/CMInjector.git
-   cd CMinecjtor
+   cd CMinjector
 ```
 2. Build the project using your preferred IDE or compiler.
 
