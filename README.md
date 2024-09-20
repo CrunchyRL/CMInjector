@@ -1,4 +1,3 @@
-```
 # CMInjector
 
 A simple C++ command-line application that injects a DLL into the highest priority process with a given filename on Windows, using Windows API.
@@ -52,8 +51,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Acknowledgments
 
 - Windows API documentation for insights on process and memory management.
-```
-
 ### Customize:
 - Replace `yourusername` in the Git clone command with your actual GitHub username.
 - You might want to add any additional instructions, acknowledgments, or license details as necessary.
