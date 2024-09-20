@@ -64,7 +64,7 @@ bool LoadFile(const string& src, const string& dest) {
 
 int main(int argc, char* argv[]) {
     if (argc != 3) {
-        cout << "Usage: " << argv[0] << " <Process Name> <DLL Filename>\n";
+        cout << "Usage: " << argv[0] << " <Process Filename> <DLL Filename>\n";
         return 1;
     }
 
