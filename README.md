@@ -1,4 +1,4 @@
-# CMInjector
+# CMInjector (yes i made this readme with chatgpt cry abt it)
 
 A simple C++ command-line application that injects a DLL into the highest priority process with a given filename on Windows, using Windows API.
 
