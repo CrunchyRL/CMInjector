@@ -18,12 +18,10 @@ A simple C++ command-line application that injects a DLL into the highest priori
 ## Usage
 
 1. Clone the repository:
-
-   ```bash
+```
    git clone https://github.com/yourusername/dll-injector.git
    cd dll-injector
-   ```
-
+```
 2. Build the project using your preferred IDE or compiler.
 
 3. Run the executable with the following command:
