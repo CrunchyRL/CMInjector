@@ -1,4 +1,4 @@
-```markdown
+```
 # CMInjector
 
 A simple C++ command-line application that injects a DLL into the highest priority process with a given filename on Windows, using Windows API.
@@ -26,7 +26,7 @@ A simple C++ command-line application that injects a DLL into the highest priori
 
 3. Run the executable with the following command:
 
-   ```bash
+   ```
    dll-injector <Process Name> <DLL Filename>
    ```
 
